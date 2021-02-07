@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanrolo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanluis211@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/zonarolo?label=Twitter&style=social)](https://twitter.com/zonarolo/)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zonarolo.zonarolo)]
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zonarolo.zonarolo)](https://github.com/zonarolo/)
 
 
 ### I'm an Engineer, a Web Developer, and Life Long Learner!
