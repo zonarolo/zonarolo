@@ -4,8 +4,10 @@
 [![Telegram](https://img.shields.io/badge/-@zonarolo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zonarolo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanrolo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanluis211@gmail.com)
+[![Juan Rolo's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/zonarolo)
+
 [![Twitter](https://img.shields.io/twitter/follow/zonarolo?label=Twitter&style=social)](https://twitter.com/zonarolo/)
-[![HitCount](http://hits.dwyl.com/zonarolo/zonarolo.svg)](http://hits.dwyl.com/zonarolo/zonarolo)
+
 
 ### I'm an Engineer, a Web Developer, and Life Long Learner!
 ```javascript
@@ -14,8 +16,8 @@ Developer dev = new Developer("Juan");
 while (dev.isInFrontOfComputer()) {
   
   dev.openFirefoxBrowser();
-  dev.copyCodeFromStackOverFlow();
-  dev.pasteCodeInIDE();
+  dev.readDocs();
+  dev.tryCodeInIDE();
   dev.fellLikeAProfessionalDeveloper();
   
 }
@@ -29,8 +31,8 @@ while (dev.isInFrontOfComputer()) {
 * Better organising and documenting my respositories.
 * My portfolio.
 #### 🌱 Challenges that I’m currently challenging myself:
-* Learn to code:man_technologist: 2-3 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and Tech articl-es daily.
+* Improve my knowledge of code:man_technologist: 2-3 hours a day. ( One or two day off a week ) 
+* Read:newspaper: Dev and Tech articles daily.
 * Workout:weight_lifting_man: 3 days a week. 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
 * Adapting the minimalism & Health life style.
@@ -57,9 +59,10 @@ while (dev.isInFrontOfComputer()) {
 
 #### 🏆 Github Stats:
 <p>
-<img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="52%"/>
+  <p align="center"><img src="https://profile-counter.glitch.me/{zonarolo}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+  <img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="52%"/>
 
-<img align="right" alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="45%"/>
+  <img align="right" alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="45%"/>
 </p>
 
 #### :star: Credits to [Galshir](https://galshir.com/) for GIF.
