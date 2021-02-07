@@ -1,10 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Juan 👋
+
 [![Github](https://img.shields.io/github/followers/zonarolo?label=Github&style=social)](https://github.com/zonarolo)
 [![Telegram](https://img.shields.io/badge/-@zonarolo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zonarolo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanrolo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanluis211@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/zonarolo?label=Twitter&style=social)](https://twitter.com/zonarolo/)
 [![HitCount](http://hits.dwyl.com/zonarolo/zonarolo.svg)](http://hits.dwyl.com/zonarolo/zonarolo)
+
+## I'm an Engineer, a Web Developer, and Life Long Learner!
+
+---
+```javascript
+Developer dev = new Developer("Juan");
+
+while (dev.isInFrontOfComputer()) {
+  
+  dev.openFirefoxBrowser();
+  dev.copyCodeFromStackOverFlow();
+  dev.pasteCodeInIDE();
+  dev.fellLikeAProfessionalDeveloper();
+  
+}
+```
+
+---
 
 #### :computer: Programming languages and tools: 
 <p>
