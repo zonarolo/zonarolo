@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanluis211@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/zonarolo?label=Twitter&style=social)](https://twitter.com/zonarolo/)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zonarolo.zonarolo)](https://github.com/zonarolo/)
-
+[![Dev](https://img.shields.io/badge/-@zonarolo-black?style=flat&logo=Dev&logoColor=white)](https://dev.to/zonarolo)
 
 ### I'm an Engineer, a Web Developer, and Life Long Learner!
 ```javascript
