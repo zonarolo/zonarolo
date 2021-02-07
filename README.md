@@ -14,5 +14,10 @@
 <br />
 </p>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true" />
-[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord)
+---
+
+### 🏆 Github Stats:
+
+<img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
+
+<img alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="500"/>
