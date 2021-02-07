@@ -8,8 +8,6 @@
 [![HitCount](http://hits.dwyl.com/zonarolo/zonarolo.svg)](http://hits.dwyl.com/zonarolo/zonarolo)
 
 ## I'm an Engineer, a Web Developer, and Life Long Learner!
-
----
 ```javascript
 Developer dev = new Developer("Juan");
 
@@ -22,7 +20,23 @@ while (dev.isInFrontOfComputer()) {
   
 }
 ```
+### 💼  Things that I'm currently working on: 
+<details>
+* Learning Web:computer: Development.
+* Looking forward to take a Flutter:calling: course in future.
+* Better organising and documenting my respositories.
+* 🔜
+</details>
 
+### 🌱 Challenges that I’m currently challenging myself:
+Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+
+* Learn to code:man_technologist: 2-3 hours a day with no distraction ( One or two day off a week. ) 
+* Read:newspaper: Dev and Tech articl-es daily.
+* Workout:weight_lifting_man: 3 days a week. 
+* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
+* Adapting the minimalism & Health life style.
+* 🔜
 ---
 
 #### :computer: Programming languages and tools: 
