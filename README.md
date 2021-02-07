@@ -54,7 +54,7 @@ while (dev.isInFrontOfComputer()) {
 
 #### 🏆 Github Stats:
 <p>
-<img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="55%"/>
+<img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="54%"/>
 
 <img align="right" alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="45%"/>
 </p>
