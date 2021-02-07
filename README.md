@@ -51,6 +51,6 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 
 ### 🏆 Github Stats:
 
-<img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="500"/>
+<img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="400"/>
 
-<img alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="500"/>
+<img align="right" alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="400"/>
