@@ -4,9 +4,8 @@
 [![Telegram](https://img.shields.io/badge/-@zonarolo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/zonarolo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanrolo/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanluis211@gmail.com)
-[![Juan Rolo's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/zonarolo)
-
 [![Twitter](https://img.shields.io/twitter/follow/zonarolo?label=Twitter&style=social)](https://twitter.com/zonarolo/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zonarolo.zonarolo)]
 
 
 ### I'm an Engineer, a Web Developer, and Life Long Learner!
@@ -59,7 +58,6 @@ while (dev.isInFrontOfComputer()) {
 
 #### 🏆 Github Stats:
 <p>
-  <p align="center"><img src="https://profile-counter.glitch.me/{zonarolo}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
   <img alt="zonarolo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zonarolo&show_icons=true&hide_border=true&theme=nord" width="52%"/>
 
   <img align="right" alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="45%"/>
