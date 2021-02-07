@@ -20,6 +20,9 @@ while (dev.isInFrontOfComputer()) {
   
 }
 ```
+<!-- gif Image -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
+
 #### 💼  Things that I'm currently working on: 
 * Learning Web:computer: Development.
 * Looking forward to take a Flutter:calling: course in future.
