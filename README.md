@@ -61,3 +61,5 @@ while (dev.isInFrontOfComputer()) {
 
 <img align="right" alt="zonarolo's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonarolo&hide_border=true&layout=compact&theme=nord" width="45%"/>
 </p>
+
+Credits to [Galshir](https://galshir.com/) for GIF.
