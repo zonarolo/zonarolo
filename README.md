@@ -15,7 +15,7 @@ Developer dev = new Developer("Juan");
 
 while (dev.isInFrontOfComputer()) {
   
-  dev.openFirefoxBrowser();
+  dev.openBraveBrowser();
   dev.readDocs();
   dev.tryCodeInIDE();
   dev.fellLikeAProfessionalDeveloper();
