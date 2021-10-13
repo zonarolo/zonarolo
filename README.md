@@ -15,10 +15,10 @@ Developer dev = new Developer("Juan");
 
 while (dev.isInFrontOfComputer()) {
   
-  dev.openBraveBrowser();
+  dev.openBrowser();
   dev.readDocs();
   dev.tryCodeInIDE();
-  dev.fellLikeAProfessionalDeveloper();
+  dev.feelLikeAProfessionalDeveloper();
   
 }
 ```
