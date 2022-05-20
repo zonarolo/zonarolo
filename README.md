@@ -9,7 +9,7 @@
 [![Dev](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/zonarolo)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=zonarolo.zonarolo)](https://github.com/zonarolo/)
 
-### I'm an Engineer, a Web Developer, and Life Long Learner!
+### I'm an Electronic Engineer, Web Developer and Life Long Learner!
 ```javascript
 Developer dev = new Developer("Juan");
 
@@ -27,7 +27,7 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼  Things that I'm currently working on: 
 * Learning Web:computer: Development.
-* Looking forward to take a Flutter:calling: course in future.
+* Looking forward to take a Django:calling: course in future.
 * Better organising and documenting my respositories.
 * My portfolio.
 #### 🌱 Challenges that I’m currently challenging myself:
