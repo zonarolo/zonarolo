@@ -27,7 +27,7 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼  Things that I'm currently working on: 
 * Learning Web:computer: Development.
-* Looking forward to take a Django:calling: course in future.
+* Looking forward to take an Angular:calling: course in future.
 * Better organising and documenting my respositories.
 * My portfolio.
 #### 🌱 Challenges that I’m currently challenging myself:
