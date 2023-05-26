@@ -27,13 +27,13 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼  Things that I'm currently working on: 
 * Learning Web:computer: Development.
-* Looking forward to take an Angular:calling: course in future.
+* Looking forward to take an Azure:calling: course in future.
 * Better organising and documenting my respositories.
 * My portfolio.
 #### 🌱 Challenges that I’m currently challenging myself:
-* Improve my knowledge of code:man_technologist: 2-3 hours a day. ( One or two day off a week ) 
+* Improve my knowledge of code:man_technologist: at least 1 hour a day. ( One or two day off a week ) 
 * Read:newspaper: Dev and Tech articles daily.
-* Workout:weight_lifting_man: 3 days a week. 
+* Workout:weight_lifting_man: 3 - 5 days a week. 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
 * Adapting the minimalism & Health life style.
 #### :computer: Programming languages and tools: 
